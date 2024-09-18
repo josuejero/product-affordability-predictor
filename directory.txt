@@ -1,0 +1,44 @@
+./
+├── Dockerfile
+├── Jenkinsfile
+├── affordable_dates_output.txt
+├── all_code_output.txt
+├── data/
+│   ├── cashflow.csv
+│   └── products.csv
+├── deployment.yaml
+├── directory.txt
+├── docker-compose.yml
+├── notebooks/
+│   └── exploratory_data_analysis.ipynb
+├── pap/
+│   ├── manage.py*
+│   ├── myapp/
+│   │   ├── admin.py
+│   │   ├── apps.py
+│   │   ├── models.py
+│   │   ├── tests.py
+│   │   └── views.py
+│   └── pap/
+│       ├── __pycache__/
+│       │   ├── __init__.cpython-312.pyc
+│       │   └── settings.cpython-312.pyc
+│       ├── asgi.py
+│       ├── settings.py
+│       ├── urls.py
+│       └── wsgi.py
+├── problem.py
+├── service.yaml
+└── src/
+    ├── __pycache__/
+    │   ├── analysis.cpython-312.pyc
+    │   ├── data_loader.cpython-312.pyc
+    │   ├── feature_engineering.cpython-312.pyc
+    │   └── model.cpython-312.pyc
+    ├── analysis.py
+    ├── data_loader.py
+    ├── feature_engineering.py
+    ├── main.py
+    └── model.py
+
+9 directories, 33 files
